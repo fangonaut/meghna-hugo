@@ -16,7 +16,7 @@ skill:
     percent: 30%
   - name: Cost benefit over time
     percent: 90%
-  - name: IOS Development
+  - name: Staff sentiment to good training
     percent: 95%
   - name: Android Development
     percent: 75%
