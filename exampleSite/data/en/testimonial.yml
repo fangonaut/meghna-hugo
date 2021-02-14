@@ -24,3 +24,8 @@ testimonial:
     date: ''
     content: The Low Level Waste Repository is the UK's central long-term store for
       low-level radioactive waste.
+  - name: EDF
+    image: images/clients/client-4.jpg
+    image_webp: images/clients/client-4.webp
+    date: ''
+    content: EDF supplies gas and electricity to homes and businesses in the UK.
