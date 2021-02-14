@@ -5,8 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Effective, Efficient, eLearning
-  content: The modern workforce needs modern training, we create bespoke eLearning
-    tailored to your needs.
+  content: Bespoke tailored eLearning to fit your needs
   button:
     enable: true
     label: Explore Us
