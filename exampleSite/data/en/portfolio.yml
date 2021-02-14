@@ -14,8 +14,8 @@ portfolio:
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - design
+    content: Custom 360 camera created in Google Earth for flyby.
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
