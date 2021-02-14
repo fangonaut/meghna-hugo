@@ -4,7 +4,7 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: "/images/favicon.png"
-  title: Effective, Efficient, eLearning
+  title: Effective, Efficient, e-Learning
   content: Bespoke tailored eLearning to fit your needs
   button:
     enable: true
