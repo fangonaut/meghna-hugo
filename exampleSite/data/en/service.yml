@@ -11,10 +11,11 @@ service:
     icon: ti-layout
     content: We can also create custom courses aimed at mobile-first training needs.
       This type, of course, works across all platforms but is best suited to LMS use
-  - name: Media &amp; Advertisement
+  - name: Mixed environment
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: These courses are designed to be run in conjunction with facilitated
+      training, they can be run in advance of or concurrent with your face to face
+      learning.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
