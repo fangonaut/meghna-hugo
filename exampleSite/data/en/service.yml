@@ -16,10 +16,10 @@ service:
     content: These courses are designed to be run in conjunction with facilitated
       training, they can be run in advance of or concurrent with your face to face
       learning.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Video Production
+    icon: ti-video-camera
+    content: If you need additional engagement, your course may benefit from a video
+      presenter or drama-based video, we have in-house facilities for both.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
