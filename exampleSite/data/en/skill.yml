@@ -14,8 +14,8 @@ skill:
     percent: 90%
   - name: Course Development Cost
     percent: 70%
-  - name: Design
-    percent: 80%
+  - name: Cost after 3 years
+    percent: 30%
   - name: IOS Development
     percent: 95%
   - name: Android Development
