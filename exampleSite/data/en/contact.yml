@@ -1,6 +1,6 @@
 ---
 contact:
-  enable: false
+  enable: true
   title: Contact Us
   subtitle: Contact Details
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
@@ -8,7 +8,7 @@ contact:
     dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
   contact_list:
   - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
+    info: Manchester UK
   - icon: ti-mobile
     info: 'Phone: +880-31-000-000'
   - icon: ti-printer
@@ -16,7 +16,7 @@ contact:
   - icon: ti-email
     info: 'Email: hello@meghna.com'
   contact_form:
-    enable: true
+    enable: false
     form_action: "#"
     name: Your Name
     email: Your Email
