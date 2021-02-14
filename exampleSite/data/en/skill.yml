@@ -12,7 +12,7 @@ skill:
   skill_item:
   - name: Cost benefit of effective training
     percent: 90%
-  - name: Course Development Cost
+  - name: Initial Course Development Cost
     percent: 70%
   - name: Cost after 3 years
     percent: 30%
