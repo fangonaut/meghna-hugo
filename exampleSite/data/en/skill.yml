@@ -9,7 +9,7 @@ skill:
     training is also cost effective training.
   image: images/about/company-growth.webp
   skill_item:
-  - name: Training benefit
+  - name: Cost benefit
     percent: 40%
   - name: Course Development
     percent: 70%
