@@ -11,7 +11,7 @@ skill:
   skill_item:
   - name: Instructional Design
     percent: 90%
-  - name: Analysis
+  - name: Course Development
     percent: 70%
   - name: Design
     percent: 80%
