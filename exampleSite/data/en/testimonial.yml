@@ -15,9 +15,10 @@ testimonial:
     image: images/clients/client-1.jpg
     image_webp: images/clients/client-1.webp
     date: ''
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content: The World Association of Nuclear Operators is a not for profit, international
+      organisation with a mission to maximise the safety and reliability of the world’s
+      commercial nuclear power plants. The organisation’s members are mainly owners
+      and operators of nuclear power plants.
   - name: Lemos Kail
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
