@@ -9,8 +9,8 @@ service:
       systems, if you are not sure what you have or need give us a call
   - name: Responsive Design
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: We can also create custom courses aimed at mobile-first training needs.
+      This type, of course, works across all platforms but is best suited to LMS use
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
