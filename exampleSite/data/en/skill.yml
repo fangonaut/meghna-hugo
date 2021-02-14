@@ -18,5 +18,5 @@ skill:
     percent: 90%
   - name: Staff sentiment to good training
     percent: 95%
-  - name: Android Development
-    percent: 75%
+  - name: Staff sentiment poor training
+    percent: 25%
