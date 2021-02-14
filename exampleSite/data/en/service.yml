@@ -20,10 +20,11 @@ service:
     icon: ti-video-camera
     content: If you need additional engagement, your course may benefit from a video
       presenter or drama-based video, we have in-house facilities for both.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: VR Video
+    icon: ti-game
+    content: 'Many industries are now benefiting from using immersive VR video to
+      further enhance their training, this is particularly useful for restricted area
+      training. '
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
