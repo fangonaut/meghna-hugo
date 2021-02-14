@@ -12,8 +12,8 @@ skill:
   skill_item:
   - name: Initial Course Development Cost
     percent: 70%
-  - name: Cost after 3 years
-    percent: 30%
+  - name: Cost over time
+    percent: 20%
   - name: Cost benefit over time
     percent: 90%
   - name: Knowledge retention with effective training
