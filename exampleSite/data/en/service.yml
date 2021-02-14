@@ -3,6 +3,10 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Software
+    icon: ti-package
+    content: We use industry-standard software packages such as 'Articulate Storyline',
+      'Adobe Captivate' and the 'Adapt Framework'.
   - name: LMS / LXP
     icon: ti-world
     content: SCORM and xAPI compliant Courses, able to be used on a wide variety of
@@ -25,7 +29,3 @@ service:
     content: 'Many industries are now benefiting from using immersive VR video to
       further enhance their training, this is particularly useful for restricted area
       training. '
-  - name: Software
-    icon: ti-package
-    content: We use industry-standard software packages such as 'Articulate Storyline',
-      'Adobe Captivate' and the 'Adapt Framework'.
