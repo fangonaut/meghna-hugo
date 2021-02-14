@@ -16,7 +16,7 @@ skill:
     percent: 30%
   - name: Cost benefit over time
     percent: 90%
-  - name: Knowledge retention with good training
+  - name: Knowledge retention with effective training
     percent: 85%
   - name: Staff sentiment poor training
     percent: 25%
