@@ -11,8 +11,8 @@ portfolio:
     content: 'Physics based interactive 3D model demonstrating unsafe loads. '
     link: https://farg.uk/#contact
   - name: 360 Virtual Drone
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: images/portfolio/folio-2.jpg
+    image_webp: images/portfolio/folio-2.webp
     categories:
     - design
     content: Custom 360 camera created in Google Earth for flyby.
