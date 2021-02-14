@@ -10,12 +10,12 @@ skill:
     properly in training, which costs more in the long run.
   image: images/about/company-growth.webp
   skill_item:
-  - name: Cost benefit of effective training
-    percent: 90%
   - name: Initial Course Development Cost
     percent: 70%
   - name: Cost after 3 years
     percent: 30%
+  - name: Cost benefit over time
+    percent: 90%
   - name: IOS Development
     percent: 95%
   - name: Android Development
