@@ -11,7 +11,7 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: Initial Course Development Cost
-    percent: 70%
+    percent: 80%
   - name: Cost over time
     percent: 20%
   - name: Cost benefit over time
