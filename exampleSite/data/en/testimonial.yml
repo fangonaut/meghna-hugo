@@ -18,10 +18,9 @@ testimonial:
     date: ''
     content: 'Leading employment support and training services company: transforming
       lives and businesses through work, training, education and financial advice.'
-  - name: Lemos Kail
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: LLWR
+    image: images/clients/client-3.jpg
+    image_webp: images/clients/client-3.webp
+    date: ''
+    content: The Low Level Waste Repository is the UK's central long-term store for
+      low-level radioactive waste.
