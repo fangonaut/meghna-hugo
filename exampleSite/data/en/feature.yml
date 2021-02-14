@@ -11,7 +11,7 @@ feature:
     icon: ti-world
     content: Learning Management Systems (LMS) and Learner Experience Platforms (LXP),
       means your staff can access their courses anytime from anywhere.
-  - title: User statistics
+  - title: User Statistics
     icon: ti-panel
     content: If you need user engagement statistics we can supply both SCORM and xAPI
       compliant courses.
