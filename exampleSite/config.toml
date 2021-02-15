@@ -86,8 +86,8 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Theme"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "FargUK"
+description = "e-Learning and video production"
 google_analytics_id = ""
 logo = "images/farg-logo-w.png"
 post_share = true
