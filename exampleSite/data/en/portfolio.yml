@@ -47,12 +47,12 @@ portfolio:
     - video
     content: Series of training videos for Hinkley Point C
     link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
+  - name: Gauge effects
+    image: images/portfolio/folio-9.jpg
+    image_webp: images/portfolio/folio-9.webp
     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - video
+    content: Broken gauges brought back to life in post prodction.
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
