@@ -1,7 +1,7 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.cta.cta.enable}}
-{{ with $data.cta.cta}}
+{{ if $data.cta2.cta2.enable}}
+{{ with $data.cta2.cta2}}
 {{"<!-- Start Call To Action -->" | safeHTML}}
 <section id="cta2" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
 	<!-- this image is for trigger this section fallback background image -->
