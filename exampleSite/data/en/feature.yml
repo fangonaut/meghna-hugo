@@ -4,17 +4,20 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: We use modern learning strategies.
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  content: Modern eLearning should be more than just a simple click, click, quiz.
+    It should engage and enthuse, it should generate an enthusiasm to learn then satisfy
+    it.
   feature_item:
   - title: Always On
     icon: ti-world
     content: Learning Management Systems (LMS) and Learner Experience Platforms (LXP),
       means your staff can access their courses anytime from anywhere.
-  - title: Project Managment
-    icon: ti-reload
-    content: We use Agile Scrum to make sure you are kept in the loop at all stages
-      of the production lifecycle.
+  - title: Brain Based Learning
+    icon: ti-light-bulb
+    content: Our aim is to create learning that speaks to the whole, we believe in
+      addressing elasticity and neurodivergent thinking, that's why we use techniques
+      such as spaced gap repetition as well as emergent technology such as VR and
+      AR
   - title: User Statistics
     icon: ti-stats-up
     content: If you need user engagement statistics we can supply both SCORM and xAPI
