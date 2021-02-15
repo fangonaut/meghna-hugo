@@ -25,13 +25,13 @@ portfolio:
     - interactive
     content: A fun motivation meter based on sliders.
     link: "#"
-  - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+  - name: Mystery Person
+    image: images/portfolio/folio-6.jpg
+    image_webp: images/portfolio/folio-6.webp
     categories:
-    - photography
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - interactive
+    content: Guess who is behind the door from a description.
     link: "#"
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
