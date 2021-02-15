@@ -64,11 +64,10 @@ portfolio:
     - interactive
     content: VR video viewed in VR headset.
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: HPC 3D video
+    image: images/portfolio/folio-11.jpg
+    image_webp: images/portfolio/folio-11.webp
     categories:
-    - design
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - video
+    content: Stereo 3D video for HPC visitor center presentation.
     link: "#"
