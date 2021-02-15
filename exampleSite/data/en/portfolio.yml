@@ -7,7 +7,8 @@ portfolio:
     image: images/portfolio/folio-1.jpg
     image_webp: images/portfolio/folio-1.webp
     categories:
-    - 3D-Design
+    - 3D
+    - Development
     content: 'Interactive 3D model demonstrating unsafe loads. '
     link: https://farg.uk/#contact
   - name: 360 Virtual Drone
