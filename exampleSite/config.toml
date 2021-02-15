@@ -129,7 +129,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/Farg-UK-321190898587114"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
