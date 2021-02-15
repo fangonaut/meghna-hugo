@@ -60,7 +60,7 @@ portfolio:
     image: images/portfolio/folio-10.jpg
     image_webp: images/portfolio/folio-10.webp
     categories:
-    - development
+    - design
     content: VR video viewed in VR headset.
     link: "#"
   - name: HPC 3D video
