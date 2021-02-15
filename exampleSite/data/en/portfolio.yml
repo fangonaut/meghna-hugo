@@ -31,6 +31,7 @@ portfolio:
     image_webp: images/portfolio/folio-6.webp
     categories:
     - development
+    - design
     content: Guess who is behind the door from a description.
     link: "#"
   - name: On Your Radar
