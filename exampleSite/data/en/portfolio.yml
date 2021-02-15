@@ -33,12 +33,12 @@ portfolio:
     - interactive
     content: Guess who is behind the door from a description.
     link: "#"
-  - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+  - name: On Your Radar
+    image: images/portfolio/folio-7.jpg
+    image_webp: images/portfolio/folio-7.webp
     categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Interactive
+    content: Catch the moving planes to launch an activity.
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
