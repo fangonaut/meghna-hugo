@@ -15,6 +15,7 @@ portfolio:
     image_webp: images/portfolio/folio-3.webp
     categories:
     - 3D-Design
+    - video
     content: Custom 360 camera in Google Earth for flyby.
     link: ''
   - name: Motivation meter
