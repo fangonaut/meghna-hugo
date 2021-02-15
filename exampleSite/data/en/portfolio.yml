@@ -21,8 +21,7 @@ portfolio:
     image: images/portfolio/folio-5.jpg
     image_webp: images/portfolio/folio-5.webp
     categories:
-    - Development
-    - Interactive
+    - development
     content: A fun motivation meter based on sliders.
     link: "#"
   - name: Mystery Person
@@ -30,14 +29,13 @@ portfolio:
     image_webp: images/portfolio/folio-6.webp
     categories:
     - development
-    - interactive
     content: Guess who is behind the door from a description.
     link: "#"
   - name: On Your Radar
     image: images/portfolio/folio-7.jpg
     image_webp: images/portfolio/folio-7.webp
     categories:
-    - Interactive
+    - development
     content: Catch the moving planes to launch an activity.
     link: "#"
   - name: HPC Training Videos
