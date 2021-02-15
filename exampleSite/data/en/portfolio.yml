@@ -55,13 +55,14 @@ portfolio:
     - video
     content: Broken gauges brought back to life in post prodction.
     link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
+  - name: Virtual world
+    image: images/portfolio/folio-10.jpg
+    image_webp: images/portfolio/folio-10.webp
     categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - 3D-Design
+    - video
+    - interactive
+    content: VR video viewed in VR headset.
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
