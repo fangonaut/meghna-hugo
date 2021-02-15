@@ -39,6 +39,7 @@ portfolio:
     image_webp: images/portfolio/folio-7.webp
     categories:
     - development
+    - design
     content: Catch the moving planes to launch an activity.
     link: "#"
   - name: HPC Training Videos
