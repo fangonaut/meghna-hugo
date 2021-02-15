@@ -40,12 +40,12 @@ portfolio:
     - Interactive
     content: Catch the moving planes to launch an activity.
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
+  - name: Training Videos
+    image: images/portfolio/folio-8.jpg
+    image_webp: images/portfolio/folio-8.webp
     categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - video
+    content: Series of training videos for Hinkley Point C
     link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
