@@ -22,8 +22,8 @@ portfolio:
     image: images/portfolio/folio-5.jpg
     image_webp: images/portfolio/folio-5.webp
     categories:
-    - development
     - interactive
+    - Development
     content: A fun motivation meter based on sliders.
     link: "#"
   - name: Mystery Person
