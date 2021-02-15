@@ -54,7 +54,7 @@ portfolio:
     image_webp: images/portfolio/folio-9.webp
     categories:
     - video
-    content: Broken gauges brought back to life in post prodction.
+    content: Broken gauges brought back to life in post.
     link: "#"
   - name: Virtual world
     image: images/portfolio/folio-10.jpg
