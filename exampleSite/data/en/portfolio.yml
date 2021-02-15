@@ -15,7 +15,6 @@ portfolio:
     image: images/portfolio/folio-3.jpg
     image_webp: images/portfolio/folio-3.webp
     categories:
-    - 3D
     - Video
     content: Custom 360 camera in Google Earth for flyby.
     link: ''
