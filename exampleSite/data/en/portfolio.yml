@@ -17,13 +17,13 @@ portfolio:
     - 3D-Design
     content: Custom 360 camera in Google Earth for flyby.
     link: ''
-  - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+  - name: Interactive Element
+    image: images/portfolio/folio-5.jpg
+    image_webp: images/portfolio/folio-5.webp
     categories:
-    - design
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - interactive
+    content: A fun motivation meter based on sliders.
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
