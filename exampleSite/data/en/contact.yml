@@ -7,8 +7,6 @@ contact:
   contact_list:
   - icon: ti-location-pin
     info: Manchester UK
-  - icon: ti-mobile
-    info: Talk to us on 0161 503 4168
   - icon: ti-email
     info: 'Email: hello@farg.uk'
   contact_form:
